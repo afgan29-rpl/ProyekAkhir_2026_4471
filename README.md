@@ -6,8 +6,8 @@ Tahun pelajaran: 2026/2027
 
 ## Identitas Siswa
 
-- Nama: 
-- NIS: 
+- Nama:afgan erlangga 
+- NIS: 4471
 - Kelas: XI RPL 2
 
 ## Deskripsi Aplikasi
